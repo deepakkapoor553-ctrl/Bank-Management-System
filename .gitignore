@@ -4,3 +4,7 @@
 "*.class" 
 "*.jar" 
 "*.exe" 
+"out/" 
+"*.class" 
+"*.jar" 
+"*.exe" 
