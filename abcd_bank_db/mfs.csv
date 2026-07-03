@@ -1,0 +1,5 @@
+id,clientId,name,cat,amc,invested,nav,units,curVal,isSIP,sipAmt,purchaseDate,status
+"MF0000001","CLT00001","HDFC Top 100 Fund","Equity - Large Cap","HDFC AMC",500000.0,78.45,6500.0,510000.0,1,10000.0,"2021-06-15","REDEEMED"
+"MF0000002","CLT00003","SBI Bluechip Fund","Equity - Large Cap","SBI Funds",300000.0,68.3,0.0,0.0,0,0.0,"2020-03-01","REDEEMED"
+"MF0000003","CLT00005","Mirae Asset Emerging Bluechip","Equity - Large & Mid Cap","Mirae AMC",1000000.0,95.2,11000.0,1250000.0,1,25000.0,"2019-01-10","REDEEMED"
+"MF0000004","CLT00002","ICICI Prudential Liquid Fund","Debt - Liquid","ICICI Prudential",150000.0,310.5,490.0,157500.0,0,0.0,"2023-09-01","ACTIVE"

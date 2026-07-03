@@ -1,0 +1,2 @@
+id,clientId,accountId,cardNumber,network,type,pin,issueDate,expiryDate,status,dailyLimit
+"ATM00001","CLT00001","SB000000001","8593 5471 7906 3120","VISA","Classic","2324","2026-03-08","03/31","ACTIVE",50000.0

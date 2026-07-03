@@ -1,0 +1,7 @@
+id,name,phone,email,city,pan,aadhar,occupation,annualIncome,kyc,riskProfile,status,openedOn,accountIds
+"CLT00001","Mr. Vikram Singh","9988776655","vikram.singh@gmail.com","Delhi","AABCS1234D","1234 5678 9012","Business",2500000.0,"VERIFIED","MODERATE","ACTIVE","2019-03-15","SB000000001;CA000000002;SL000000009;SB000000010"
+"CLT00002","Mrs. Meera Nair","8877665544","meera.nair@gmail.com","Bengaluru","BBBMN4567F","9876 5432 1098","Salaried",1200000.0,"VERIFIED","MODERATE","ACTIVE","2020-06-01","SB000000003"
+"CLT00003","Dr. Arjun Kapoor","7766554433","dr.kapoor@clinic.com","Mumbai","CCCAK7890G","4567 8901 2345","Professional",3600000.0,"VERIFIED","MODERATE","ACTIVE","2018-01-10","SB000000004"
+"CLT00004","Ms. Deepa Menon","6655443322","deepa.menon@company.com","Chennai","DDDLM2345H","7890 1234 5678","Salaried",900000.0,"VERIFIED","LOW","ACTIVE","2022-09-12","SB000000005"
+"CLT00005","Mr. Rohit Joshi","5544332211","rohit.joshi@business.com","Jaipur","EEERI9012J","3456 7890 1234","Business",4800000.0,"VERIFIED","HIGH","ACTIVE","2017-07-20","SB000000006;CA000000007"
+"CLT00007","i8y8y","4567765453","uyfgu8g","crvtuby","R5665R7187","123456789098","yugtyv",5667878.0,"VERIFIED","MODERATE","ACTIVE","2026-03-03","SB000000008"

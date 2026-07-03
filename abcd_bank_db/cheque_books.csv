@@ -1,0 +1,2 @@
+id,clientId,accountId,bookNumber,leaves,startCheque,endCheque,issueDate,status,usedLeaves
+"CHQ00001","CLT00001","CA000000002","BK000002",50,"000001","000050","2026-03-08","ACTIVE",0
