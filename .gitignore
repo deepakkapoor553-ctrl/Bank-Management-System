@@ -1,2 +1,6 @@
 "*.class" 
 "config.properties" 
+"out/" 
+"*.class" 
+"*.jar" 
+"*.exe" 
